@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ABlutstein/ilana-app.git/static/css/main.b2420c4d.chunk.css",
+    "main.js": "/ABlutstein/ilana-app.git/static/js/main.8fca00e1.chunk.js",
+    "main.js.map": "/ABlutstein/ilana-app.git/static/js/main.8fca00e1.chunk.js.map",
+    "runtime-main.js": "/ABlutstein/ilana-app.git/static/js/runtime-main.b0719b70.js",
+    "runtime-main.js.map": "/ABlutstein/ilana-app.git/static/js/runtime-main.b0719b70.js.map",
+    "static/js/2.aab265c4.chunk.js": "/ABlutstein/ilana-app.git/static/js/2.aab265c4.chunk.js",
+    "static/js/2.aab265c4.chunk.js.map": "/ABlutstein/ilana-app.git/static/js/2.aab265c4.chunk.js.map",
+    "index.html": "/ABlutstein/ilana-app.git/index.html",
+    "precache-manifest.5beb666893fa660b0764951c0dd01979.js": "/ABlutstein/ilana-app.git/precache-manifest.5beb666893fa660b0764951c0dd01979.js",
+    "service-worker.js": "/ABlutstein/ilana-app.git/service-worker.js",
+    "static/css/main.b2420c4d.chunk.css.map": "/ABlutstein/ilana-app.git/static/css/main.b2420c4d.chunk.css.map",
+    "static/js/2.aab265c4.chunk.js.LICENSE.txt": "/ABlutstein/ilana-app.git/static/js/2.aab265c4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ABlutstein/ilana-app.git/static/media/RainbowPic.43ee340b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0719b70.js",
+    "static/js/2.aab265c4.chunk.js",
+    "static/css/main.b2420c4d.chunk.css",
+    "static/js/main.8fca00e1.chunk.js"
+  ]
+}
